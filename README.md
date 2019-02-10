@@ -1,2 +1,2 @@
 # pythoncursus
-Beginnerscursus Python
+Beginnerscursus Python met jupyter notebook van Google Colabatory
